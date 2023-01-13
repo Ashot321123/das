@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    font-family: Roboto;
+}
+
+.rectangle{
+    width: 25%;
+    border: 1px solid;
+    padding: 100px 50px;
+    background-color: #135047;
+}
+.rectangle>div>h1, h2{
+    color: white;
+}
+.rectangle>div>p{
+    color: #BDBDBD;
+}
+.img{
+    
+    width: 110px;
+    height: 110px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-image: url(https://s3-alpha-sig.figma.com/img/0a70/91df/7788c85ba212ab4f724f0ef3238da8b5?Expires=1674432000&Signature=Hyjltr25ITygWubYfAuu9gOgYzGi1ov42i08JSBxZ29I16iSR8xMNeHR-DlRWzwTNidF-XW~FiV-igffjoNsUUl7HjFFn~LM4I0WSlHrY61~JXfwncuffzt2q9WBjp3hjmJdxkmgZR-k~qbBNoDpdCFfNaWj8ycmBqv9nJPTbG4TK0KY6SimURsQ-9g3IUA1UV0b9QGopwAJDXb~hC0BW724pe0j3eBmcJ4iEDTQJT4-hRdv6G-vpPva7cTl0HopS0zdKkc-2kDziu9rPbB60dC4BjbAr8iUDtKOzdrDBIeyfNdOGRjSR5T9PvI3A3F9vEDrqWnwihN9FNMmu9nQvA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ul{
+    margin-left: 15px;
+}
+.title-1{
+    width: 100%;
+    margin: 25px 0px;
+    text-align: center;
+}
+.title-2{
+    width: 100%;
+}
+.title-2>h2{
+    margin-bottom: 20px;
+}
+.dasht{
+    width: 100%;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.dasht>p{
+    color: #BDBDBD;
+}
+.title-3{
+    width: 100%;
+    
+}
+.title-3>h2{
+    line-height: 45px;
+}
+.title-3>p{
+    line-height: 45px;
+}
+.title-4>h2{
+    margin-top: 40px;
+}
+.title-5{
+    width: 75%;
+    border: 1px solid ;
+    padding: 100px 50px;
+    font-size: 13px;
+}
+.lorem>p{
+    font-size: 13px;
+    margin:20px 0px;
+    line-height: 25px;
+}
+.title-6{
+    margin: 30px 0px;
+    line-height: 32px;
+}
+.color{
+    color: black;
+}
+.title-6>h1{
+    margin: 70px 0px 30px 0px;
+}
+.title-7{
+    line-height: 30px;
+}
+.title-7>h1{
+    margin-bottom: 30px;
+}
+.title-8>h1{
+    margin: 30px 0px;
+}
+.title-8>p{
+    line-height: 30px;
+}
+.group-1{
+    width: 100%;
+    margin-top: 20px;
+}
+.group-1>p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.group{
+    width: 100%;
+    height: 5px;
+    
+    background-color: #5B837D;
+    margin-top: 20px;
+}
+.proc1{
+    width: 95%;
+    height: 100%;
+    background-color: white;
+}
+.proc2{
+    width: 95%;
+    height: 100%;
+    background-color: white;
+}
+.proc3{
+    width: 75%;
+    height: 100%;
+    background-color: white;
+}
+.proc4{
+    width: 52%;
+    height: 100%;
+    background-color: white;
+}
+.proc5{
+    width: 60%;
+    height: 100%;
+    background-color: white;
+}
+.proc6{
+    width: 59%;
+    height: 100%;
+    background-color: white;
+}
+
+
+
+
